@@ -13,7 +13,7 @@ const Shop = () => {
   return (
     <div className="shop-container">
       <div className="product-container">
-        <h3>Product comming ={products.length}</h3>
+        <h3>Product comminggg ={products.length}</h3>
       </div>
       <div className="card-container">
         <h4>Card comming</h4>
